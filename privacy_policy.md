@@ -32,4 +32,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or your data, please contact us at [your email address].
+If you have any questions about this Privacy Policy or your data, please contact us at tqkproduction2025@gmail.com.
