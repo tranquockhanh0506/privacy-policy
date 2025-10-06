@@ -1,6 +1,6 @@
 # Privacy Policy for KnoteD
 
-This Privacy Policy describes how KnoteD ("the App") collects, uses, and protects your information when you use our services.
+This Privacy Policy describes how KnoteD collects, uses, and protects your information when you use our services.
 
 ## Information Collection and Use
 
