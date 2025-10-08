@@ -5,7 +5,8 @@ layout: default
 
 # Privacy Policy for KnoteD
 
-This Privacy Policy describes how **KnoteD** collects, uses, and protects your information when you use our services.
+This Privacy Policy explains how **KnoteD** collects, uses, and protects your information when you use our services.  
+We respect your privacy and are committed to keeping your data safe.
 
 ---
 
@@ -31,46 +32,53 @@ KnoteD uses your device's camera for the following purposes:
 - To scan QR codes for searching and adding friends.  
 
 ### Photos & Images
-Photos taken or selected through KnoteD are used only for updating your profile information. These images are stored locally on your device and are **not shared with third parties**.  
-
-You may choose to upload your profile image to our servers if you want to display your profile to other users. Uploaded images are stored securely and shared only as part of your public profile.
+Photos taken or selected through KnoteD are used **only to update your profile**.  
+- Stored locally on your device by default.  
+- You may choose to upload your profile image to our servers to display it to other users. Uploaded images are stored securely and shared **only as part of your public profile**.  
 
 ### QR Code Scanning
-When you scan a QR code, KnoteD only processes the information contained in the code to help you find or add friends. The app does **not store or share scanned QR code data** beyond this purpose.
+When you scan a QR code, KnoteD **only processes the information contained in the code** to help you find or add friends.  
+- Scanned QR code data is **not stored or shared beyond this purpose**.  
 
 ### Points & Feature Access
-KnoteD uses **points** as a virtual currency within the app. Points are required to access certain features.  
-
-These points are **not redeemable for real-world money** and are consumed only within the app. Users may earn points through in-app purchases or by inviting friends.
+KnoteD uses **points** as a virtual currency to access certain app features.  
+- Points are earned through in-app purchases or inviting friends.  
+- Points are **not redeemable for real-world money** and are consumed **only within the app**.  
+- Using points may grant access to premium features, content, or functionality within KnoteD.  
 
 ---
 
 ## Permissions
 
 KnoteD requests the following permissions:  
-- **Camera:** To allow you to take photos and scan QR codes.  
-- **Storage/Photos:** To let you select images from your device for your profile.  
+- **Camera:** To take photos for your profile and scan QR codes.  
+- **Storage/Photos:** To select images from your device for your profile.  
 
-These permissions are used **only for the purposes described above**. You may revoke these permissions at any time via your device settings. Disabling them may limit certain features of the app.
+These permissions are used **only for the purposes described above**.  
+- You can revoke permissions anytime via your device settings.  
+- Disabling permissions may limit certain app features.  
 
 ---
 
 ## Data Security
 
-We take your privacy seriously. KnoteD does **not collect, transmit, or share** any personal photos, images, or QR code data without your consent.  
+We take your privacy seriously. KnoteD does **not collect, transmit, or share** personal photos, images, or QR code data without your consent.  
 
-All data related to your profile, social connections, and in-app points is protected and handled in accordance with applicable data protection laws.  
+All profile, social connection, and in-app points data are **protected in accordance with applicable data protection laws**.  
 
-KnoteD does **not use tracking, analytics, or third-party advertising** in connection with points or personal data.
+KnoteD does **not use tracking, analytics, or third-party advertising** for personal or points-related data.
 
 ---
 
 ## Changes to This Policy
 
-We may update our Privacy Policy from time to time. Any changes will be posted on this page.
+We may update this Privacy Policy occasionally.  
+- Any changes will be posted on this page.  
+- Users are encouraged to check this page regularly for updates.  
 
 ---
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or your data, please contact us at **[knoted@gmail.com](mailto:knoted@gmail.com)**.
+For questions about this Privacy Policy or your data, please contact us at:  
+**[knoted@gmail.com](mailto:knoted@gmail.com)**
