@@ -42,7 +42,7 @@ When you scan a QR code, KnoteD **only processes the information contained in th
 
 ### Points & Feature Access
 KnoteD uses **points** as a virtual currency to access certain app features.  
-- Points are earned through in-app purchases or inviting friends.  
+- Points are earned through in-app purchases, inviting friends, or **watching in-app advertisements**.  
 - Points are **not redeemable for real-world money** and are consumed **only within the app**.  
 - Using points may grant access to premium features, content, or functionality within KnoteD.  
 
@@ -66,7 +66,7 @@ We take your privacy seriously. KnoteD does **not collect, transmit, or share** 
 
 All profile, social connection, and in-app points data are **protected in accordance with applicable data protection laws**.  
 
-KnoteD does **not use tracking, analytics, or third-party advertising** for personal or points-related data.
+KnoteD does **not use tracking, analytics, or third-party advertising** for personal or points-related data beyond what is required to deliver in-app ads.  
 
 ---
 
@@ -81,4 +81,4 @@ We may update this Privacy Policy occasionally.
 ## Contact Us
 
 For questions about this Privacy Policy or your data, please contact us at:  
-**[knoted@gmail.com](mailto:knoted@gmail.com)**
+**[knoted2025@gmail.com](mailto:knoted2025@gmail.com)**
